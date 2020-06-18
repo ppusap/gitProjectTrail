@@ -1,0 +1,3 @@
+hi this what we are learning for today.
+Git commands are not to complecated.
+
